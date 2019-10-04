@@ -1,3 +1,21 @@
+*********************************
+Forked Read the Docs Sphinx Theme
+*********************************
+
+This fork intends to provide a full screen option for the popular Read the Docs Sphinx Theme.
+
+Classic
+=======
+
+.. image:: https://raw.githubusercontent.com/Shynixn/sphinx_rtd_theme/development/ReadTheDocs.JPG
+
+Forked Read the Docs Sphinx Theme
+=======
+
+.. image:: https://raw.githubusercontent.com/Shynixn/sphinx_rtd_theme/development/BlockBall.JPG
+
+=========================
+
 .. _readthedocs.org: http://www.readthedocs.org
 .. _bower: http://www.bower.io
 .. _sphinx: http://www.sphinx-doc.org
